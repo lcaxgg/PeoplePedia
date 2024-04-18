@@ -1,0 +1,24 @@
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/PeoplePedia/Models/InfoModel.swift":
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/InfoModel.o"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/InfoModel.d"
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/InfoModel.dia"
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/InfoModel.swiftconstvalues"
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/InfoModel.swiftdeps"
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/PeoplePedia/Models/PersonModel.swift":
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonModel.swiftdeps"
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonModel.dia"
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonModel.swiftconstvalues"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonModel.d"
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonModel.o"
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/PeoplePedia/Views/Controllers/MainViewController.swift":
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/MainViewController.swiftdeps"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/MainViewController.d"
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/MainViewController.dia"
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/MainViewController.swiftconstvalues"
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/MainViewController.o"
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/PeoplePedia/Models/DobModel.swift":
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/DobModel.swiftconstvalues"
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/DobModel.swiftdeps"
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/DobModel.o"
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/DobModel.dia"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PersonPedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/DobModel.d"

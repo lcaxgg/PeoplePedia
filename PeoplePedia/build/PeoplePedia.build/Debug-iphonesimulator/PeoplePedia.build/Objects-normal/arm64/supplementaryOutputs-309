@@ -1,0 +1,24 @@
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/RegisteredModel.swift":
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/RegisteredModel.dia"
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/RegisteredModel.swiftdeps"
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/RegisteredModel.o"
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/RegisteredModel.swiftconstvalues"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/RegisteredModel.d"
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Enums/PostCodeEnum.swift":
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PostCodeEnum.swiftconstvalues"
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PostCodeEnum.o"
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PostCodeEnum.dia"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PostCodeEnum.d"
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PostCodeEnum.swiftdeps"
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Enums/HTTPMethodEnum.swift":
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/HTTPMethodEnum.swiftdeps"
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/HTTPMethodEnum.swiftconstvalues"
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/HTTPMethodEnum.o"
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/HTTPMethodEnum.dia"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/HTTPMethodEnum.d"
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/IdModel.swift":
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/IdModel.swiftdeps"
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/IdModel.o"
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/IdModel.dia"
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/IdModel.swiftconstvalues"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/IdModel.d"

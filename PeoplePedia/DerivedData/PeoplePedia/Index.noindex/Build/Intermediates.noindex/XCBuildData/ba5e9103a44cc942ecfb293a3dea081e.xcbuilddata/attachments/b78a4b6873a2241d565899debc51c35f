@@ -1,0 +1,105 @@
+{
+  "" : {
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PeoplePedia-master.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PeoplePedia-master.dia",
+    "emit-module-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PeoplePedia-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PeoplePedia-master-emit-module.dia",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PeoplePedia-master.swiftdeps"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Api/ApiConstants.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Api/ApiEndPoint.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Delegates/AppDelegate.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Delegates/SceneDelegate.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Enums/HTTPMethodEnum.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Enums/PersonDetailsHeaderEnum.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Enums/PostCodeEnum.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Helpers/DateHelper.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Helpers/ImageCacheHelper.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/CoordinatesModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/DobModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/IdModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/InfoModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/LocationModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/NameModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/PersonModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/PictureModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/RegisteredModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/ResultModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/StreetModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/TimezoneModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Protocols/ApiClientProtocol.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Services/DataHandler.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Services/UrlSessionService.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/ViewModels/PersonDetailsViewModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/ViewModels/PersonViewModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Views/Cells/PersonDetailsTableViewCell.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Views/Cells/PersonListsTableViewCell.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Views/Controllers/LoadingViewController.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Views/Controllers/MainViewController.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Views/Controllers/PersonDetailsViewController.swift" : {
+
+  }
+}

@@ -1,0 +1,24 @@
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Delegates/AppDelegate.swift":
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/AppDelegate.d"
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/AppDelegate.dia"
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/AppDelegate.swiftconstvalues"
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/AppDelegate.o"
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Views/Cells/PersonDetailsTableViewCell.swift":
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonDetailsTableViewCell.o"
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonDetailsTableViewCell.dia"
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonDetailsTableViewCell.swiftdeps"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonDetailsTableViewCell.d"
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonDetailsTableViewCell.swiftconstvalues"
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/TimezoneModel.swift":
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/TimezoneModel.o"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/TimezoneModel.d"
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/TimezoneModel.swiftdeps"
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/TimezoneModel.swiftconstvalues"
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/TimezoneModel.dia"
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/ResultModel.swift":
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/ResultModel.swiftconstvalues"
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/ResultModel.o"
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/ResultModel.swiftdeps"
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/ResultModel.dia"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/ResultModel.d"

@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "099266c4ebc1be9e43e89639c63afcc9eaf502b1bc059360af4f2f54ae888489"
+    },
+    {
+      "guid" : "099266c4ebc1be9e43e89639c63afcc91dfcaec87f51ee71a96607b4f4cea566"
+    },
+    {
+      "guid" : "099266c4ebc1be9e43e89639c63afcc9d83a6434a7b508850ea8e90787193994"
+    }
+  ],
+  "containerPath" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Build/Products",
+      "pchPath" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

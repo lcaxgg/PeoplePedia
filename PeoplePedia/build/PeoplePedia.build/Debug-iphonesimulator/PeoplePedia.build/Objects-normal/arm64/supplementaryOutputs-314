@@ -1,0 +1,24 @@
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/DerivedSources/GeneratedAssetSymbols.swift":
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues"
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/GeneratedAssetSymbols.dia"
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/GeneratedAssetSymbols.d"
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/CoordinatesModel.swift":
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/CoordinatesModel.dia"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/CoordinatesModel.d"
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/CoordinatesModel.swiftconstvalues"
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/CoordinatesModel.o"
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/CoordinatesModel.swiftdeps"
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Views/Cells/PersonListsTableViewCell.swift":
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonListsTableViewCell.o"
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonListsTableViewCell.swiftconstvalues"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonListsTableViewCell.d"
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonListsTableViewCell.swiftdeps"
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/PersonListsTableViewCell.dia"
+"/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Views/Controllers/LoadingViewController.swift":
+  diagnostics: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/LoadingViewController.dia"
+  swift-dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/LoadingViewController.swiftdeps"
+  dependencies: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/LoadingViewController.d"
+  const-values: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/LoadingViewController.swiftconstvalues"
+  object: "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/Objects-normal/arm64/LoadingViewController.o"

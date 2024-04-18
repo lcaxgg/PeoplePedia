@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'PeoplePediaUnitTests' in project 'PeoplePedia'
+➜ Explicit dependency on target 'PeoplePedia' in project 'PeoplePedia'
+Target 'PeoplePediaUITests' in project 'PeoplePedia'
+➜ Explicit dependency on target 'PeoplePedia' in project 'PeoplePedia'
+Target 'PeoplePedia' in project 'PeoplePedia' (no dependencies)

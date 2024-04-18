@@ -1,0 +1,168 @@
+{
+  "" : {
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests-master.dia",
+    "emit-module-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests-master.swiftdeps"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockCoordinatesModel.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockCoordinatesModel.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockCoordinatesModel.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockCoordinatesModel.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockCoordinatesModel.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockCoordinatesModel.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockCoordinatesModel.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockCoordinatesModel.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockCoordinatesModel~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockDobModel.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDobModel.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDobModel.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDobModel.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDobModel.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDobModel.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDobModel.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDobModel.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDobModel~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockIdModel.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockIdModel.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockIdModel.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockIdModel.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockIdModel.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockIdModel.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockIdModel.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockIdModel.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockIdModel~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockInfoModel.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockInfoModel.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockInfoModel.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockInfoModel.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockInfoModel.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockInfoModel.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockInfoModel.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockInfoModel.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockInfoModel~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockLocationModel.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockLocationModel.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockLocationModel.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockLocationModel.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockLocationModel.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockLocationModel.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockLocationModel.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockLocationModel.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockLocationModel~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockNameModel.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockNameModel.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockNameModel.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockNameModel.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockNameModel.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockNameModel.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockNameModel.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockNameModel.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockNameModel~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockPersonModel.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPersonModel.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPersonModel.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPersonModel.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPersonModel.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPersonModel.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPersonModel.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPersonModel.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPersonModel~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockPictureModel.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPictureModel.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPictureModel.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPictureModel.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPictureModel.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPictureModel.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPictureModel.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPictureModel.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockPictureModel~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockRegisteredModel.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockRegisteredModel.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockRegisteredModel.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockRegisteredModel.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockRegisteredModel.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockRegisteredModel.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockRegisteredModel.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockRegisteredModel.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockRegisteredModel~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockResultModel.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockResultModel.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockResultModel.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockResultModel.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockResultModel.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockResultModel.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockResultModel.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockResultModel.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockResultModel~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockStreetModel.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockStreetModel.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockStreetModel.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockStreetModel.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockStreetModel.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockStreetModel.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockStreetModel.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockStreetModel.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockStreetModel~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockTimezoneModel.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockTimezoneModel.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockTimezoneModel.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockTimezoneModel.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockTimezoneModel.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockTimezoneModel.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockTimezoneModel.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockTimezoneModel.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockTimezoneModel~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockProtocols/MockApiClientProtocol.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockApiClientProtocol.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockApiClientProtocol.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockApiClientProtocol.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockApiClientProtocol.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockApiClientProtocol.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockApiClientProtocol.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockApiClientProtocol.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockApiClientProtocol~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockServices/MockDataHandler.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDataHandler.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDataHandler.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDataHandler.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDataHandler.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDataHandler.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDataHandler.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDataHandler.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockDataHandler~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockServices/MockUrlSessionService.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockUrlSessionService.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockUrlSessionService.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockUrlSessionService.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockUrlSessionService.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockUrlSessionService.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockUrlSessionService.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockUrlSessionService.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/MockUrlSessionService~partial.swiftmodule"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/UnitTests/PeoplePediaUnitTests.swift" : {
+    "const-values" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests.swiftconstvalues",
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests.dia",
+    "index-unit-output-path" : "/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests.o",
+    "llvm-bc" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests.bc",
+    "object" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests.o",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests.swiftdeps",
+    "swiftmodule" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/build/PeoplePedia.build/Debug-iphonesimulator/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests~partial.swiftmodule"
+  }
+}

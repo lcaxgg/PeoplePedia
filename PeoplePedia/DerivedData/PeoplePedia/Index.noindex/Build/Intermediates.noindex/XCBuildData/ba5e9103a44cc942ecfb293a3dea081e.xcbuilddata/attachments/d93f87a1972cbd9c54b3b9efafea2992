@@ -1,0 +1,57 @@
+{
+  "" : {
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-maccatalyst/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests-master.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-maccatalyst/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests-master.dia",
+    "emit-module-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-maccatalyst/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-maccatalyst/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-maccatalyst/PeoplePediaUnitTests.build/Objects-normal/arm64/PeoplePediaUnitTests-master.swiftdeps"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockCoordinatesModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockDobModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockIdModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockInfoModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockLocationModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockNameModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockPersonModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockPictureModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockRegisteredModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockResultModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockStreetModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockModels/MockTimezoneModel.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockProtocols/MockApiClientProtocol.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockServices/MockDataHandler.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/MockServices/MockUrlSessionService.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUnitTests/UnitTests/PeoplePediaUnitTests.swift" : {
+
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-iphoneos/PeoplePediaUITests.build/Objects-normal/arm64/PeoplePediaUITests-master.d",
+    "diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-iphoneos/PeoplePediaUITests.build/Objects-normal/arm64/PeoplePediaUITests-master.dia",
+    "emit-module-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-iphoneos/PeoplePediaUITests.build/Objects-normal/arm64/PeoplePediaUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-iphoneos/PeoplePediaUITests.build/Objects-normal/arm64/PeoplePediaUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-iphoneos/PeoplePediaUITests.build/Objects-normal/arm64/PeoplePediaUITests-master.swiftdeps"
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUITests/PeoplePediaUITests.swift" : {
+
+  },
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePediaUITests/PeoplePediaUITestsLaunchTests.swift" : {
+
+  }
+}

@@ -1,0 +1,41 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "d3bb77596c58e7aada0d8ef7a016f451853c4add5fde6d73f6b37adfcc8eb7da"
+build_start_time: [1713198738, 325264000]
+build_end_time: [1713198740, 458080000]
+inputs:
+  ? "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/DerivedData/PeoplePedia/Index.noindex/Build/Intermediates.noindex/PeoplePedia.build/Debug-iphonesimulator/PeoplePedia.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1713198738, 313715281]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Api/ApiConstants.swift": [1713196979, 644165582]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Api/ApiEndPoint.swift": [1713196979, 634502912]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Delegates/AppDelegate.swift": [1713196979, 716855647]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Delegates/SceneDelegate.swift": [1713196979, 705852382]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Enums/HTTPMethodEnum.swift": [1713196979, 409234902]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Enums/PersonDetailsHeaderEnum.swift": [1713196979, 399875902]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Enums/PostCodeEnum.swift": [1713196979, 423126401]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Helpers/DateHelper.swift": [1713196979, 580014384]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Helpers/ImageCacheHelper.swift": [1713196979, 572750861]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/CoordinatesModel.swift": [1713196979, 538614723]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/DobModel.swift": [1713196979, 528822344]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/IdModel.swift": [1713196979, 520617896]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/InfoModel.swift": [1713196979, 512869535]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/LocationModel.swift": [1713196979, 504932506]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/NameModel.swift": [1713196979, 493824407]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/PersonModel.swift": [1713196979, 476864756]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/PictureModel.swift": [1713196979, 468637307]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/RegisteredModel.swift": [1713196979, 460573402]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/ResultModel.swift": [1713196979, 452414538]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/StreetModel.swift": [1713196979, 439042793]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Models/TimezoneModel.swift": [1713196979, 431252890]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Protocols/ApiClientProtocol.swift": [1713196979, 614936238]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Services/DataHandler.swift": [1713196979, 587737537]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Services/UrlSessionService.swift": [1713196979, 603264967]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/ViewModels/PersonDetailsViewModel.swift": [1713196979, 553878985]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/ViewModels/PersonViewModel.swift": [1713196979, 564289744]
+  ? "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Views/Cells/PersonDetailsTableViewCell.swift"
+  : [1713196979, 653869044]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Views/Cells/PersonListsTableViewCell.swift": [1713196979, 664310512]
+  ? "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Views/Controllers/LoadingViewController.swift"
+  : [1713196979, 683395224]
+  "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Views/Controllers/MainViewController.swift": [1713196979, 693185019]
+  ? "/Users/opsolutions/Desktop/myGithubRepositories/iOS/ios-exam/PeoplePedia/PeoplePedia/Views/Controllers/PersonDetailsViewController.swift"
+  : [1713196979, 674891648]

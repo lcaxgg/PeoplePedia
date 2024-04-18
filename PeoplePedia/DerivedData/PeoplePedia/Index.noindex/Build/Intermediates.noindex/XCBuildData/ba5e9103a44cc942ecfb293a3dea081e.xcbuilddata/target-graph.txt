@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'PeoplePediaUnitTests' in project 'PeoplePedia' (no dependencies)
+Target 'PeoplePediaUnitTests' in project 'PeoplePedia'
+➜ Explicit dependency on target 'PeoplePedia' in project 'PeoplePedia'
+Target 'PeoplePediaUnitTests' in project 'PeoplePedia'
+➜ Explicit dependency on target 'PeoplePedia' in project 'PeoplePedia'
+Target 'PeoplePediaUITests' in project 'PeoplePedia' (no dependencies)
+Target 'PeoplePediaUITests' in project 'PeoplePedia'
+➜ Explicit dependency on target 'PeoplePedia' in project 'PeoplePedia'
+Target 'PeoplePediaUITests' in project 'PeoplePedia'
+➜ Explicit dependency on target 'PeoplePedia' in project 'PeoplePedia'
+Target 'PeoplePedia' in project 'PeoplePedia' (no dependencies)
+Target 'PeoplePedia' in project 'PeoplePedia' (no dependencies)
