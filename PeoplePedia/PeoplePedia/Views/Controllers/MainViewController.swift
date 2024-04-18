@@ -105,8 +105,10 @@ class MainViewController: UIViewController, UITableViewDelegate, UITableViewData
         personViewModel.filterResults(by: indexPath.section)
         let filteredResults = personViewModel.getFilteredResults()
         
-        cell.resultModel = filteredResults[indexPath.row]
-        cell.setUpCell()
+        if filteredResults.count > indexPath.row {
+            cell.resultModel = filteredResults[indexPath.row]
+            cell.setUpCell()
+        }
         
         return cell
     }
@@ -157,7 +159,7 @@ class MainViewController: UIViewController, UITableViewDelegate, UITableViewData
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == "segueIdentifier" {
             if let detailViewController = segue.destination as? PersonDetailsViewController {
-                detailViewController.personDetailsViewModel = personViewModel.getPersonDetailViewModel()
+                detailViewController.personDetailsViewModel = personViewModel.getPersonDetailsViewModel()
             }
         }
     }

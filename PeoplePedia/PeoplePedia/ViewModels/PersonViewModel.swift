@@ -99,7 +99,7 @@ extension PersonViewModel {
         filteredResults ?? []
     }
     
-    func getPersonDetailViewModel() -> PersonDetailsViewModel {
+    func getPersonDetailsViewModel() -> PersonDetailsViewModel {
         personDetailsViewModel
     }
 }
