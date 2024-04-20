@@ -13,3 +13,4 @@ https://github.com/lcaxgg/PeoplePedia/assets/97140615/a344b064-955a-44ee-9864-23
 > <sup>This project is finished and is part of my learning journey. It demonstrates simple memory caching of data fetched from open source api. 
 <br>Your valuable comments and suggestions are highly encouraged—please feel free to reach out to me.
 <br>Let's collaborate and create something truly remarkable together! 🙇🏻</sup><br>
+---
