@@ -36,9 +36,7 @@ class PersonListsTableViewCell: UITableViewCell {
     
    func setUpCell() {
        if let urlString = resultModel?.picture.large {
-           DispatchQueue.main.async {
-               self.customImageView.image = ImageCacheHelper.shared.getCachedImage(of: urlString)
-           }
+           self.customImageView.image = ImageCacheHelper.shared.getCachedImage(of: urlString)
        }
        
        if let first = resultModel?.name.first, let last = resultModel?.name.last {

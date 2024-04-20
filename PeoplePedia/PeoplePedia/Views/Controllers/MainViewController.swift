@@ -7,7 +7,7 @@
 
 import UIKit
 
-class MainViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
+class MainViewController: UIViewController, UITableViewDelegate, UITableViewDataSource, UISearchResultsUpdating {
     
     // MARK: - Variables
     
@@ -20,7 +20,7 @@ class MainViewController: UIViewController, UITableViewDelegate, UITableViewData
     
     // MARK: - Life Cycle
     
-    init(searchController: UISearchController, refreshControl: UIRefreshControl, 
+    init(searchController: UISearchController, refreshControl: UIRefreshControl,
          personViewModel: PersonViewModel, acitivityIndicator: UIActivityIndicatorView) {
         
         self.searchController = searchController
@@ -39,37 +39,31 @@ class MainViewController: UIViewController, UITableViewDelegate, UITableViewData
         
         super.init(coder: coder)
     }
-   
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        setUpIds()
-        setUpNavigationItem()
         setUpView()
         handleDataUpdates()
     }
     
     // MARK: - UI Setup
     
-    private func setUpIds() {
-        tableView.accessibilityIdentifier = "tableViewIdentifier"
-        searchController.searchBar.searchTextField.accessibilityIdentifier = "searchField"
-    }
-    
-    private func setUpNavigationItem() {
+    private func setUpView() {
         let backButton = UIBarButtonItem()
         backButton.title = "Back"
         
-        navigationItem.backBarButtonItem = backButton
-        navigationItem.searchController = searchController
-    }
-    
-    private func setUpView() {
         refreshControl.addTarget(self, action: #selector(refreshData), for: UIControl.Event.valueChanged)
         tableView.addSubview(refreshControl)
         
-        view.addSubview(activityIndicator)
+        searchController.searchResultsUpdater = self
+        
         activityIndicator.center = view.center
+        view.addSubview(activityIndicator)
+        
+        navigationItem.backBarButtonItem = backButton
+        navigationItem.searchController = searchController
+        navigationItem.hidesSearchBarWhenScrolling = false
     }
     
     // MARK: - UITableViewDataSource
@@ -130,10 +124,11 @@ class MainViewController: UIViewController, UITableViewDelegate, UITableViewData
         title = String()
         navigationItem.searchController?.searchBar.isHidden = true
         
-        personViewModel.onDataUpdated = { [weak self] in
+        personViewModel.onHeadersUpdated = { [weak self] in
             DispatchQueue.main.async {
                 self?.title = "PeoplePedia"
                 self?.navigationItem.searchController?.searchBar.isHidden = false
+                
                 self?.tableView.reloadData()
                 self?.activityIndicator.stopAnimating()
             }
@@ -145,7 +140,7 @@ class MainViewController: UIViewController, UITableViewDelegate, UITableViewData
         view.isUserInteractionEnabled = false
         navigationItem.searchController?.searchBar.isUserInteractionEnabled = false
         
-        personViewModel.onDataUpdated = { [weak self] in
+        personViewModel.onHeadersUpdated = { [weak self] in
             DispatchQueue.main.async {
                 self?.view.isUserInteractionEnabled = true
                 self?.navigationItem.searchController?.searchBar.isUserInteractionEnabled = true
@@ -160,6 +155,19 @@ class MainViewController: UIViewController, UITableViewDelegate, UITableViewData
         if segue.identifier == "segueIdentifier" {
             if let detailViewController = segue.destination as? PersonDetailsViewController {
                 detailViewController.personDetailsViewModel = personViewModel.getPersonDetailsViewModel()
+            }
+        }
+    }
+    
+    func updateSearchResults(for searchController: UISearchController) {
+        guard let searchText = searchController.searchBar.text else {
+            return
+        }
+        
+        personViewModel.searchResults(by: searchText)
+        personViewModel.onSearchedResultsUpdated = { [weak self] in
+            DispatchQueue.main.async {
+                self?.tableView.reloadData()
             }
         }
     }

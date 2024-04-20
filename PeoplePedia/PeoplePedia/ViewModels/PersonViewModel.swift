@@ -11,21 +11,31 @@ class PersonViewModel {
     
     // MARK: - Variables
     
-    var onDataUpdated: (()->Void)?
-    private var headers: [Character] = [] {
-        didSet {
-            self.onDataUpdated?()
-        }
-    }
+    var onHeadersUpdated: (()->Void)?
+    var onSearchedResultsUpdated: (()->Void)?
     
     private var results: [ResultModel]?
     private var filteredResults: [ResultModel]?
-
+    private var headersBackUp: [Character]
+    
+    private var headers: [Character] = [] {
+        didSet {
+            self.onHeadersUpdated?()
+        }
+    }
+        
+    private var searchedResults: [ResultModel]? = [] {
+        didSet {
+            self.onSearchedResultsUpdated?()
+        }
+    }
+    
     private let personDetailsViewModel: PersonDetailsViewModel
     private var imageUrls: [URL] = []
     
     init() {
         self.headers = Array()
+        self.headersBackUp = Array()
         self.personDetailsViewModel = PersonDetailsViewModel()
     
         fetchData()
@@ -57,7 +67,8 @@ class PersonViewModel {
                     ImageCacheHelper.shared.cacheImages()
                     
                     self.headers = placeHolder.sorted()
-                   
+                    self.headersBackUp = self.headers
+                    
                     let endTime = Date().timeIntervalSince1970
                     let elapsedTime = endTime - startTime
                    
@@ -73,7 +84,23 @@ class PersonViewModel {
     
     func filterResults(by section: Int) {
         let prefix = String(headers[section])
-        filteredResults = results?.filter { $0.name.first.hasPrefix(prefix) }
+        filteredResults = searchedResults?.count ?? 0 > 0 ? searchedResults : results?.filter { $0.name.first.hasPrefix(prefix) }
+    }
+    
+    func searchResults(by searchText: String) {
+        guard searchText.count != 0 else {
+            headers = headersBackUp
+            searchedResults = nil
+            return
+        }
+        
+        let prefix = searchText.first
+        headers = headers.filter { $0 == prefix }
+        
+        searchedResults = Array((filteredResults?.filter {
+            $0.name.first.contains(searchText) ||
+            $0.name.last.contains(searchText)
+        })!)
     }
 }
 
