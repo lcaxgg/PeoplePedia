@@ -41,22 +41,6 @@
 		5B781A772BCA9D4700DBADB9 /* LoadingScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B781A762BCA9D4700DBADB9 /* LoadingScreen.storyboard */; };
 		5B8582662BCD1DB0003C1E24 /* PersonDetailsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8582652BCD1DB0003C1E24 /* PersonDetailsViewModel.swift */; };
 		5B8582682BCD2B0B003C1E24 /* PersonDetailsHeaderEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8582672BCD2B0B003C1E24 /* PersonDetailsHeaderEnum.swift */; };
-		5BB980522BCCC589004E807E /* PeoplePediaUnitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB980512BCCC589004E807E /* PeoplePediaUnitTests.swift */; };
-		5BB9805D2BCCC604004E807E /* MockApiClientProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB9805C2BCCC604004E807E /* MockApiClientProtocol.swift */; };
-		5BB9805F2BCCC622004E807E /* MockUrlSessionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB9805E2BCCC622004E807E /* MockUrlSessionService.swift */; };
-		5BB980612BCCC639004E807E /* MockDataHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB980602BCCC639004E807E /* MockDataHandler.swift */; };
-		5BB980722BCCC688004E807E /* MockStreetModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB980642BCCC687004E807E /* MockStreetModel.swift */; };
-		5BB980732BCCC688004E807E /* MockNameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB980652BCCC687004E807E /* MockNameModel.swift */; };
-		5BB980742BCCC688004E807E /* MockRegisteredModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB980662BCCC687004E807E /* MockRegisteredModel.swift */; };
-		5BB980752BCCC688004E807E /* MockResultModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB980672BCCC687004E807E /* MockResultModel.swift */; };
-		5BB980762BCCC688004E807E /* MockPersonModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB980682BCCC687004E807E /* MockPersonModel.swift */; };
-		5BB980772BCCC688004E807E /* MockCoordinatesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB980692BCCC687004E807E /* MockCoordinatesModel.swift */; };
-		5BB980782BCCC688004E807E /* MockLocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB9806A2BCCC687004E807E /* MockLocationModel.swift */; };
-		5BB980792BCCC688004E807E /* MockPictureModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB9806B2BCCC687004E807E /* MockPictureModel.swift */; };
-		5BB9807A2BCCC688004E807E /* MockInfoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB9806C2BCCC688004E807E /* MockInfoModel.swift */; };
-		5BB9807B2BCCC688004E807E /* MockDobModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB9806D2BCCC688004E807E /* MockDobModel.swift */; };
-		5BB9807C2BCCC688004E807E /* MockTimezoneModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB9806E2BCCC688004E807E /* MockTimezoneModel.swift */; };
-		5BB9807D2BCCC688004E807E /* MockIdModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB9806F2BCCC688004E807E /* MockIdModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -116,22 +100,6 @@
 		5B9877152BCD8D4300F0CCBE /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5B9877212BCD93AA00F0CCBE /* PeoplePediaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PeoplePediaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BB9804F2BCCC589004E807E /* PeoplePediaUnitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PeoplePediaUnitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		5BB980512BCCC589004E807E /* PeoplePediaUnitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeoplePediaUnitTests.swift; sourceTree = "<group>"; };
-		5BB9805C2BCCC604004E807E /* MockApiClientProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockApiClientProtocol.swift; sourceTree = "<group>"; };
-		5BB9805E2BCCC622004E807E /* MockUrlSessionService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockUrlSessionService.swift; sourceTree = "<group>"; };
-		5BB980602BCCC639004E807E /* MockDataHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockDataHandler.swift; sourceTree = "<group>"; };
-		5BB980642BCCC687004E807E /* MockStreetModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockStreetModel.swift; sourceTree = "<group>"; };
-		5BB980652BCCC687004E807E /* MockNameModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockNameModel.swift; sourceTree = "<group>"; };
-		5BB980662BCCC687004E807E /* MockRegisteredModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockRegisteredModel.swift; sourceTree = "<group>"; };
-		5BB980672BCCC687004E807E /* MockResultModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockResultModel.swift; sourceTree = "<group>"; };
-		5BB980682BCCC687004E807E /* MockPersonModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockPersonModel.swift; sourceTree = "<group>"; };
-		5BB980692BCCC687004E807E /* MockCoordinatesModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockCoordinatesModel.swift; sourceTree = "<group>"; };
-		5BB9806A2BCCC687004E807E /* MockLocationModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockLocationModel.swift; sourceTree = "<group>"; };
-		5BB9806B2BCCC687004E807E /* MockPictureModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockPictureModel.swift; sourceTree = "<group>"; };
-		5BB9806C2BCCC688004E807E /* MockInfoModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockInfoModel.swift; sourceTree = "<group>"; };
-		5BB9806D2BCCC688004E807E /* MockDobModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockDobModel.swift; sourceTree = "<group>"; };
-		5BB9806E2BCCC688004E807E /* MockTimezoneModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockTimezoneModel.swift; sourceTree = "<group>"; };
-		5BB9806F2BCCC688004E807E /* MockIdModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockIdModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -245,7 +213,6 @@
 			isa = PBXGroup;
 			children = (
 				5B76BA582BCA7FF900B9BE43 /* PeoplePedia */,
-				5BB980502BCCC589004E807E /* PeoplePediaUnitTests */,
 				5B76BA572BCA7FF900B9BE43 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -323,61 +290,6 @@
 				5B76BA622BCA7FFB00B9BE43 /* Assets.xcassets */,
 			);
 			path = Resources;
-			sourceTree = "<group>";
-		};
-		5BB980502BCCC589004E807E /* PeoplePediaUnitTests */ = {
-			isa = PBXGroup;
-			children = (
-				5BB980582BCCC5A5004E807E /* UnitTests */,
-				5BB980592BCCC5C7004E807E /* MockProtocols */,
-				5BB9805A2BCCC5CF004E807E /* MockServices */,
-				5BB9805B2BCCC5D6004E807E /* MockModels */,
-			);
-			path = PeoplePediaUnitTests;
-			sourceTree = "<group>";
-		};
-		5BB980582BCCC5A5004E807E /* UnitTests */ = {
-			isa = PBXGroup;
-			children = (
-				5BB980512BCCC589004E807E /* PeoplePediaUnitTests.swift */,
-			);
-			path = UnitTests;
-			sourceTree = "<group>";
-		};
-		5BB980592BCCC5C7004E807E /* MockProtocols */ = {
-			isa = PBXGroup;
-			children = (
-				5BB9805C2BCCC604004E807E /* MockApiClientProtocol.swift */,
-			);
-			path = MockProtocols;
-			sourceTree = "<group>";
-		};
-		5BB9805A2BCCC5CF004E807E /* MockServices */ = {
-			isa = PBXGroup;
-			children = (
-				5BB9805E2BCCC622004E807E /* MockUrlSessionService.swift */,
-				5BB980602BCCC639004E807E /* MockDataHandler.swift */,
-			);
-			path = MockServices;
-			sourceTree = "<group>";
-		};
-		5BB9805B2BCCC5D6004E807E /* MockModels */ = {
-			isa = PBXGroup;
-			children = (
-				5BB980692BCCC687004E807E /* MockCoordinatesModel.swift */,
-				5BB9806D2BCCC688004E807E /* MockDobModel.swift */,
-				5BB9806F2BCCC688004E807E /* MockIdModel.swift */,
-				5BB9806C2BCCC688004E807E /* MockInfoModel.swift */,
-				5BB9806A2BCCC687004E807E /* MockLocationModel.swift */,
-				5BB980652BCCC687004E807E /* MockNameModel.swift */,
-				5BB980682BCCC687004E807E /* MockPersonModel.swift */,
-				5BB9806B2BCCC687004E807E /* MockPictureModel.swift */,
-				5BB980662BCCC687004E807E /* MockRegisteredModel.swift */,
-				5BB980672BCCC687004E807E /* MockResultModel.swift */,
-				5BB980642BCCC687004E807E /* MockStreetModel.swift */,
-				5BB9806E2BCCC688004E807E /* MockTimezoneModel.swift */,
-			);
-			path = MockModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -556,22 +468,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BB980742BCCC688004E807E /* MockRegisteredModel.swift in Sources */,
-				5BB9807A2BCCC688004E807E /* MockInfoModel.swift in Sources */,
-				5BB980762BCCC688004E807E /* MockPersonModel.swift in Sources */,
-				5BB980752BCCC688004E807E /* MockResultModel.swift in Sources */,
-				5BB980612BCCC639004E807E /* MockDataHandler.swift in Sources */,
-				5BB980732BCCC688004E807E /* MockNameModel.swift in Sources */,
-				5BB980522BCCC589004E807E /* PeoplePediaUnitTests.swift in Sources */,
-				5BB9807D2BCCC688004E807E /* MockIdModel.swift in Sources */,
-				5BB980772BCCC688004E807E /* MockCoordinatesModel.swift in Sources */,
-				5BB980782BCCC688004E807E /* MockLocationModel.swift in Sources */,
-				5BB980792BCCC688004E807E /* MockPictureModel.swift in Sources */,
-				5BB9805D2BCCC604004E807E /* MockApiClientProtocol.swift in Sources */,
-				5BB9807B2BCCC688004E807E /* MockDobModel.swift in Sources */,
-				5BB9807C2BCCC688004E807E /* MockTimezoneModel.swift in Sources */,
-				5BB980722BCCC688004E807E /* MockStreetModel.swift in Sources */,
-				5BB9805F2BCCC622004E807E /* MockUrlSessionService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
