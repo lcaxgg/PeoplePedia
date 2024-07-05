@@ -12,16 +12,16 @@
         <!--Main View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="MainViewController" customModule="PersonPedia" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="MainViewController" customModule="PeoplePedia" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" restorationIdentifier="tableViewIdentifier" alwaysBounceVertical="YES" dataMode="prototypes" style="grouped" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="18" estimatedSectionHeaderHeight="-1" sectionFooterHeight="18" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="gUl-Sl-MvQ">
-                                <rect key="frame" x="0.0" y="103" width="393" height="749"/>
+                                <rect key="frame" x="0.0" y="103" width="393" height="715"/>
                                 <color key="backgroundColor" red="0.97254902119999997" green="0.97254902119999997" blue="0.97254902119999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="personListsCellIdentifier" rowHeight="80" id="630-GY-YiC" customClass="PersonListsTableViewCell" customModule="PersonPedia" customModuleProvider="target">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="personListsCellIdentifier" rowHeight="80" id="630-GY-YiC" customClass="PersonListsTableViewCell" customModule="PeoplePedia" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="38" width="393" height="80"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="630-GY-YiC" id="t6n-9h-C3b">
@@ -82,8 +82,8 @@
                         <color key="tintColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="gUl-Sl-MvQ" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="QRm-Ak-eem"/>
-                            <constraint firstAttribute="bottom" secondItem="gUl-Sl-MvQ" secondAttribute="bottom" id="V3F-tX-uSi"/>
                             <constraint firstAttribute="trailing" secondItem="gUl-Sl-MvQ" secondAttribute="trailing" id="VlZ-Hj-wNu"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="gUl-Sl-MvQ" secondAttribute="bottom" id="aqV-H1-22h"/>
                             <constraint firstItem="gUl-Sl-MvQ" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="f9Q-uQ-G4x"/>
                         </constraints>
                     </view>
@@ -100,7 +100,7 @@
         <!--Person Details View Controller-->
         <scene sceneID="tVs-n7-gpS">
             <objects>
-                <viewController id="j4U-9d-jyx" customClass="PersonDetailsViewController" customModule="PersonPedia" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="j4U-9d-jyx" customClass="PersonDetailsViewController" customModule="PeoplePedia" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="n7m-jz-ff6">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -117,7 +117,7 @@
                                 <rect key="frame" x="0.0" y="248" width="393" height="604"/>
                                 <color key="backgroundColor" red="0.97254902119999997" green="0.97254902119999997" blue="0.97254902119999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="personDetailsCellIdentifier" rowHeight="45" id="hxn-JI-ZPF" customClass="PersonDetailsTableViewCell" customModule="PersonPedia" customModuleProvider="target">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="personDetailsCellIdentifier" rowHeight="45" id="hxn-JI-ZPF" customClass="PersonDetailsTableViewCell" customModule="PeoplePedia" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="55.333332061767578" width="393" height="45"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="hxn-JI-ZPF" id="tAL-Xj-ACA">
